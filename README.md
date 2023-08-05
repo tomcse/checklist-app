@@ -6,6 +6,6 @@
 - nanoid() was used to generate unique IDs
 - inputs are stored and retrieved via local storage
 
-#### URLs
+#### Links
 
 [React-toastify](https://fkhadra.github.io/react-toastify/introduction/)
